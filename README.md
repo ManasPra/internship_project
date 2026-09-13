@@ -1,1 +1,1 @@
-Machine Learning projecct for Binary Classification 
+Machine Learning project for Binary Classification 
